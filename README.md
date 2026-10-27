@@ -1,3 +1,24 @@
+---
+license: cc-by-4.0
+task_categories:
+  - robotics
+  - image-to-image
+tags:
+  - rosbag
+  - low-light
+  - infrared
+  - depth
+  - imu
+  - ros
+  - slam
+  - reconstruction
+language:
+  - en
+pretty_name: CLEARIR ROS Bags
+size_categories:
+  - 10K<n<100K
+---
+
 This dataset contains captures in extreme low light and dim settings. It contains the infra0, infra1, colour, depth images and also the imu, odom and vicon data.
 
 If you plan to use this dataset in your research please cite our work:
